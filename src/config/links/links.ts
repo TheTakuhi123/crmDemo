@@ -1,7 +1,7 @@
 import HomeIcon from "@mui/icons-material/Home";
 import ListAltIcon from "@mui/icons-material/ListAlt";
 
-import { MainNavigationLink } from "../../models/MainNavigationLink";
+import { MainNavigationLink } from "../../models/MainNavLink";
 
 export const appLinks: MainNavigationLink[] = [
   {
